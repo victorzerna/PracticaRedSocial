@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticaRedSocial</string>
+    <string name="nombre_participante">Pepito Perez</string>
+    <string name="meGusta">Me Gusta</string>
+    <string name="Notificaciones">Notificaciones del usuario</string>
+    <string name="siguiendo">Siguiendo</string>
+    <string name="seguidores">Seguidores</string>
+    <string name="lista_estados">Lista de Estados Disponibles</string>
+    <string name="bt_cerrar">Cerrar Sesion</string>
+</resources>
